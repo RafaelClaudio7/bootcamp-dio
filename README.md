@@ -1,2 +1,2 @@
 # bootcamp-dio
-##Arquivos de Estudo do Bootcamp Carrefour da DIO
+- Arquivos de Estudo do Bootcamp Carrefour da DIO
